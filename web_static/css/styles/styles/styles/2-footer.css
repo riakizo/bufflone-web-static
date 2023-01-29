@@ -1,0 +1,9 @@
+footer {
+    background: linear-gradient(269deg, #011030 -9%, #390866 97%);
+    width: 100%;
+    height: 60px;
+    bottom: 0;
+    text-align: center;
+    position: fixed;
+    color: white;
+}
