@@ -7,3 +7,7 @@ footer{
     position: fixed;
     color: white;
 }
+images{
+    background-image: bufflone-logo;
+    resize: 20px;
+}
