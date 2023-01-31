@@ -3,5 +3,6 @@ header{
     height: 70px;
     width: 100%;
     border-bottom:#888888 solid 1px;
+    background-image: url("/web_static/images/bufflone-logo.jpg");
     
 }
