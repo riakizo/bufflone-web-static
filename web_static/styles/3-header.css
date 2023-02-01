@@ -3,6 +3,10 @@ header{
     height: 70px;
     width: 100%;
     border-bottom:#888888 solid 1px;
-    background-image: url("../web_static/bufflone-logo.jpg");
+    background-image: url("../images/bufflone-logo.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position: left;
+    
     
 }
